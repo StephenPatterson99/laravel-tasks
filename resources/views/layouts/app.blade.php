@@ -32,7 +32,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Task Manager
+                    Task Manager for Stephen Patterson
                 </a>
             </div>
 
